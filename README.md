@@ -1,4 +1,4 @@
-# IQ-TRADING-bot
+# IQ-OPTION-TRADING-bot
 The most profitable bot ever!!!
 Just send me a message through telegram 
 https://t.me/+o3GkH5Tl2OdjZDdh
